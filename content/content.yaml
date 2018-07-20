@@ -1,19 +1,19 @@
-# add your meta tags here!
 meta:
   # keep this to <= 200 characters or so. Less is more!
-  description: This is a meaningful description
+  description: A GraphQL workshop to get you and your team leveled up in all things GraphQL. If you have no experience with GraphQL, lots of experience, or somewhere in between, we can help you learn GraphQL!
   keywords:
-    - sample
-  title: Training Starter Kit
+    - GraphQL
+    - JavaScript
+    - Training
+    - Workshop
+  title: GraphQL Worksop
 
 # these are links that have special meaning in the header
 # set to false to hide that particular item in the headbar (slidedeck link/github link)
 links:
-  github: https://github.com/objectpartners/path-to-your-repo
+  github: https://github.com/objectpartners/graphql-workshop
   slidedeck: /slidedeck
 
-  # these will show up in their own group in the sidebar
-  # clicking on them will open up the link in a new tab
   external:
-    - href: https://google.com
-      title: Sample
+    - href: https://www.apollographql.com/
+      title: Apollo GraphQL

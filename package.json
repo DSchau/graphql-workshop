@@ -1,7 +1,7 @@
 {
-  "name": "@objectpartners/training-starter-kit",
+  "name": "@objectpartners/graphql-workshop",
   "private": true,
-  "description": "A starter-kit/boilerplate for your next, great training content for Object Partners",
+  "description": "The workshop content for the single day GraphQL workshop",
   "version": "1.0.0",
   "author": "Dustin Schau <dustin.schau@objectpartners.com>",
   "dependencies": {
